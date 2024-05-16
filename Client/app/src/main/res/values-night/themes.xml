@@ -1,0 +1,55 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DietiDeals24" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your night theme here. -->
+        <item name="colorPrimary">@color/yellow</item> <!-- Color of the app bar -->
+        <item name="colorAccent">@color/yellow</item> <!-- Color of UI controls such as check boxes, radio buttons, and edit text boxes -->
+        <item name="android:windowBackground">@color/night_blue</item> <!-- The color of the screen background -->
+        <item name="android:textColor">@color/white</item> <!-- Color of UI text in the app bar -->
+        <item name="fontFamily">@font/poppins_regular</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:navigationBarColor">@color/dark_blue</item> <!-- Color of Android System Navigation Bar -->
+    </style>
+
+    <style name="Theme.DietiDeals24" parent="Base.Theme.DietiDeals24" />
+
+    <style name="CustomButton">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="CustomTextViewTitleSection">
+        <item name="android:textColor">@color/yellow</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/dark_blue</item>
+    </style>
+
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- boxStrokeColor -->
+        <item name="colorOnSurface">@color/white</item>
+
+        <item name="boxCornerRadiusTopStart">16dp</item>
+        <item name="boxCornerRadiusTopEnd">16dp</item>
+        <item name="boxCornerRadiusBottomStart">16dp</item>
+        <item name="boxCornerRadiusBottomEnd">16dp</item>
+    </style>
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_bottom</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_bottom</item>
+    </style>
+
+    <style name="NumberPickerTheme" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/white</item>
+        <item name="colorControlNormal">@color/yellow</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:selectedDateVerticalBar">@color/yellow</item>
+    </style>
+</resources>

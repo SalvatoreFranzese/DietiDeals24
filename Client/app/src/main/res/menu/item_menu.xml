@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="@string/home"
+        android:icon="@drawable/round_home_24" />
+
+    <item android:id="@+id/nav_auction"
+        android:title="@string/auction"
+        android:icon="@drawable/round_gavel_24" />
+
+    <item android:id="@+id/nav_add"
+        android:title="@string/create"
+        android:icon="@drawable/round_add_box_24" />
+
+    <item android:id="@+id/nav_notify"
+        android:title="@string/notify"
+        android:icon="@drawable/round_message_24" />
+
+    <item android:id="@+id/nav_profile"
+        android:title="@string/profile"
+        android:icon="@drawable/round_person_24" />
+</menu>

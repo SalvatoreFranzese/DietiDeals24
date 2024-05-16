@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">DietiDeals24</string>
+    <string name="search_bar_auction">Cerca tra le aste...</string>
+    <string name="categories">Categorie</string>
+    <string name="english_auctions_label">Aste all\'inglese</string>
+    <string name="downward_auctions_label">Aste al ribasso</string>
+    <string name="category_label">Categoria</string>
+
+    <!-- String for item menu -->
+    <string name="home">Home</string>
+    <string name="auction">Aste</string>
+    <string name="create">Crea</string>
+    <string name="notify">Notifiche</string>
+    <string name="profile">Profilo</string>
+
+    <!-- Label for Edit Text-->
+    <string name="name_label">Nome</string>
+    <string name="surname_label">Cognome</string>
+    <string name="email_label">E-mail</string>
+    <string name="password_label">Password</string>
+    <string name="confirm_password_label">Conferma password</string>
+
+    <string name="login_label">Login</string>
+    <string name="sign_in_label">Sign In</string>
+    <string name="btn_login_label">Accedi</string>
+    <string name="btn_sign_in_label">Registrati</string>
+    <string name="or_label">oppure</string>
+    <string name="btn_login_whit_google_label">Accedi con Google</string>
+    <string name="create_account_label">Non hai un account?</string>
+    <string name="registration_label">Registrati</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipisci elit, sed do eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullamco laboriosam, nisi ut aliquid ex ea commodi consequatur. Duis aute irure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <string name="english_auction_label">Asta all\'inglese</string>
+    <string name="downward_auction_label">Asta al ribasso</string>
+    <string name="create_auction_label">Crea Asta</string>
+    <string name="message_add_dialog_label">Che tipo di asta vuoi creare?</string>
+
+    <string name="change_password_label">Cambia password</string>
+    <string name="old_password_label">Password corrente</string>
+    <string name="new_password_label">Nuova password</string>
+    <string name="confirm_new_password_label">Conferma password</string>
+    <string name="log_out_label">Esci</string>
+
+    <string name="biography_label">Biografia</string>
+    <string name="links_label">Links</string>
+    <string name="edit_profile_label">Modifica profilo</string>
+    <string name="change_image_label">Cambia immagine profilo</string>
+    <string name="apply_changes_label">Applica modifice</string>
+    <string name="make_an_offer_label">Fai un\'offerta</string>
+    <string name="bidders_label">Offerenti</string>
+    <string name="cancel_label">Annulla</string>
+    <string name="product_name_label">Nome prodotto</string>
+    <string name="starting_price_label">Prezzo iniziale</string>
+    <string name="timer_label">Timer</string>
+    <string name="increase_threshold_label">Soglia rialzo</string>
+    <string name="create_label">Crea</string>
+    <string name="upload_image_label">Carica immagine</string>
+    <string name="select_category_label">Seleziona categoria</string>
+    <string name="decrease_amount_label">Importo di decremento</string>
+    <string name="lowest_price_label">Prezzo minimo</string>
+    <string name="description_product_label">Descrizione prodotto</string>
+    <string name="your_auctions_label">Le tue aste</string>
+    <string name="your_offers_label">Le tue offerte</string>
+    <string name="notifications_label">Notifiche</string>
+    <string name="show">Mostra</string>
+    <string name="seller_info_label">Informazioni sul venditore</string>
+    <string name="failed_login">Login fallito!</string>
+    <string name="login_error_info_label">Le credenziali inserite non sono valide!</string>
+    <string name="try_again_label">Riprova</string>
+    <string name="registration_was_successful">Registrazione avvenuta con successo!</string>
+    <string name="failed_sign_in_label">Registrazione Fallita!</string>
+    <string name="complete_your_profile_label">Completa il tuo profilo!</string>
+    <string name="geographical_area">Area Geografica</string>
+    <string name="create_another_english_auction_label">Crea un\'altra asta all\'inglese</string>
+    <string name="create_another_downward_auction_label">Crea un\'altra asta al ribasso</string>
+    <string name="back_to_home">Torna alla Home</string>
+    <string name="buy_label">Acquista</string>
+    <string name="seller_label">Venditore:</string>
+    <string name="the_seller_did_not_provide_any_other_information_label">Il venditore non ha fornito altre informazioni</string>
+    <string name="there_are_no_offerrers_make_an_offer_label">Non ci sono offerenti!\n Fai un\'offerta!</string>
+    <string name="dynamic_text">Testo Dinamico</string>
+    <string name="confirm_offer_label">Conferma offerta</string>
+    <string name="confirm_label">Conferma</string>
+    <string name="back_to_auction">Torna all\'asta</string>
+    <string name="failed_data_update_label">Modifica fallita!</string>
+    <string name="failed_data_update_text">Impossibile modficare i tuoi dati al momento, riprova più tardi.</string>
+    <string name="close_label">Chiudi</string>
+    <string name="obligatory_field_label">Questo campo è obbligatorio</string>
+</resources>

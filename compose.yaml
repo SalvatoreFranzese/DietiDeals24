@@ -1,0 +1,14 @@
+services:
+    database:
+        image: postgres:16.1
+        ports:
+            - 5432:5432
+        environment:
+            POSTGRES_PASSWORD: <your_password>
+    server:
+        build: ./Server
+        ports:
+            - 9090:9090
+        environment:
+            - SPRING_DATASOURCE_URL=jdbc:postgresql://database:5432/postgres
+

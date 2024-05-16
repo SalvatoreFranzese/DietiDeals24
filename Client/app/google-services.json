@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628420924211",
+    "project_id": "dietideals24-e9d54",
+    "storage_bucket": "dietideals24-e9d54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628420924211:android:91f9401381d87c8c806446",
+        "android_client_info": {
+          "package_name": "it.unina.dietideals24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlegVpOJ1W7wQE7mE5t2jUb5B2HTmvVn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
